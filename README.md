@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Ortiz</h1>
 <h3 align="center">IT Associate Director at BTG Pactual, Brazil🌟.</h3>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/matheusz2/matheusz2/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
 - 🌱 I’m currently learning BlockChain developing.
