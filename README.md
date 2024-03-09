@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning BlockChain developing.
 
-- 📫 How to reach me **matheus.ortiz@outlook.com.br**
+- 📫 How to reach me **matheus.ortiz.dev@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
