@@ -3,7 +3,7 @@
 <p><img align="right" src="https://github.com/matheusz2/matheusz2/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning BlockChain developing.
+- 🌱 I'm currently learning blockchain/smartcontracts development.
 
 - 📫 How to reach me **matheus.ortiz.dev@gmail.com**
 
